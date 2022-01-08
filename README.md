@@ -1,0 +1,2 @@
+# Masternoder
+masternode run
