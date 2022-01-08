@@ -1,6 +1,5 @@
-# Masternoder
-masternode run
-@@ -1 +1,440 @@
+# Masternode run
+
 # KYCC-MNSetupGuide
 ![Example-Logo](https://i.imgur.com/MoIR36F.png)
 # KYC Coin Masternode Setup Guide (Ubuntu 18.04)
